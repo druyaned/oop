@@ -1,2 +1,2 @@
-module com.github.druyaned.solid {
+module druyaned.solid {
 }

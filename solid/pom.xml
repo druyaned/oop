@@ -7,12 +7,12 @@
   <modelVersion>4.0.0</modelVersion>
   
   <parent>
-    <groupId>com.github.druyaned</groupId>
+    <groupId>druyaned</groupId>
     <artifactId>oop</artifactId>
     <version>1.0</version>
   </parent>
   
-  <groupId>com.github.druyaned</groupId>
+  <groupId>druyaned</groupId>
   <artifactId>solid</artifactId>
   <version>1.0</version>
   

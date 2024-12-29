@@ -1,3 +1,5 @@
-module com.github.druyaned.designpatterns {
+module druyaned.designpatterns {
+    
     requires java.logging;
+    
 }
